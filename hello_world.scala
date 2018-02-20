@@ -1,4 +1,4 @@
-object saketh{
+object Saketh{
     /* This is my scala program this will
     print Hello World!
     */
